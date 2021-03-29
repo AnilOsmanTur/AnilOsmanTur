@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=AnilOsmanTur&style=plastic&color=blue)
+
+![Anil Osman Tur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilOsmanTur&show_icons=true&count_private=true)
+
+<!--
+
+[![Sourcerer](https://sourcerer.io/icons/logo-sharing.svg)](https://sourcerer.io/anilosmantur)
+
+-->
